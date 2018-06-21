@@ -1,6 +1,6 @@
 // Code your solutions in this file
 function tailsNeverFails(){
-  let tails = 818;
+  let tails = ;
   
   while (Math.random() >= 0.5){
     
